@@ -1,0 +1,15 @@
+[
+  {
+    "id": 0,
+    "isActive": true,
+    "age": 28,
+    "firstName": "Harsh",
+    "lastName": "Kumar",
+    "password": 12345,
+    "email": "harsh@gmail.com",
+    "phone": 7004899150,
+    "address": "Bekapur Gola Road, Munger",
+    "about": "Currently studying at DYPIMR"
+  }
+
+]
